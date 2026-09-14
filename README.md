@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-## 👋🏼Olá! Eu sou a Isabelly, estudante de Análise e Desenvolvimento de Sistemas na FIAP, tenho interesse por tecnologia e estou em constante evolução na área de TI. Atualmente, estou desenvolvendo meus conhecimentos em Python, Java, SQL, Backend, Engenharia de Dados, Cloud e Cibersegurança, buscando unir programação, dados e segurança para criar soluções práticas e eficientes.
+## 👋🏼Olá! Eu me chamo Isabelly, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP; tenho interesse por tecnologia e estou buscando estar sempre em constante evolução na área de TI. Atualmente, estou desenvolvendo meus conhecimentos em Python, Java, SQL, Backend, Engenharia de Dados, Cloud e Cibersegurança, buscando unir programação, dados e segurança para criar soluções práticas e eficientes.
 
 ### Interesses: Backend • Dados • Cibersegurança • Cloud • Inteligência Artificial • Business
 
