@@ -1,83 +1,31 @@
-# 👩🏻‍💻 Isabelly Viana
+![⋆˚࿔ ˖ ⁺ 𝐻𝑒𝑙𝑙𝑜 𝑒𝑣𝑒𝑟𝑦𝑜𝑛𝑒 ⁺ ˖𝜗𝜚 ˚⋆](https://mark.sylphx.com/api/v1/mark/hero.svg?text=%E2%8B%86%CB%9A%E0%BF%94+%CB%96+%E2%81%BA+%F0%9D%90%BB%F0%9D%91%92%F0%9D%91%99%F0%9D%91%99%F0%9D%91%9C+%F0%9D%91%92%F0%9D%91%A3%F0%9D%91%92%F0%9D%91%9F%F0%9D%91%A6%F0%9D%91%9C%F0%9D%91%9B%F0%9D%91%92+%E2%81%BA+%CB%96%F0%9D%9C%97%F0%9D%9C%9A+%CB%9A%E2%8B%86&desc=welcome+to+my+profile%21&theme=grape&animation=fade)
 
-**`Estudante de ADS`**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" /> Me chamo Isabelly e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Gosto de aprender coisas novas, explorar diferentes áreas da tecnologia e colocar meus conhecimentos em prática por meio de projetos, buscando evoluir constantemente e entender como a tecnologia pode resolver problemas e gerar valor.
 
-## 👋🏼Olá! Eu me chamo Isabelly, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP; tenho interesse por tecnologia e estou buscando estar sempre em constante evolução na área de TI. Atualmente, estou desenvolvendo meus conhecimentos em Python, Java, SQL, Backend, Engenharia de Dados, Cloud e Cibersegurança, buscando unir programação, dados e segurança para criar soluções práticas e eficientes.
+### Tenho buscado desenvolver conhecimentos em análise e visualização de dados, Business Intelligence, bancos de dados e engenharia de dados, utilizando ferramentas como Python, SQL, Power BI e Excel. Também exploro áreas como desenvolvimento de software, Inteligência Artificial, Cloud e Cibersegurança, ampliando minha visão sobre as possibilidades da tecnologia. O objetivo é transformar meus aprendizados em projetos práticos, desenvolver meu raciocínio analítico e construir soluções que conectem tecnologia, dados e necessidades de negócio.
 
-### Interesses: Backend • Dados • Cibersegurança • Cloud • Inteligência Artificial • Business
-
-## 🤖 Linguagens e Tecnologia 
+## *Interesses: Backend • Dados • Cloud • Business • Inteligência Artificial • Cibersegurança*
 
 
-<img 
-    aling="left"
-    alt="Azure"
-    tittle="Azure"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>  <img 
-    aling="left"
-    alt="SQLite"
-    tittle="SQLite"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" 
-/>  <img 
-    aling="left"
-    alt="postgresql"
-    tittle="postgresql"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>  <img 
-    aling="left"
-    alt="Docker"
-    tittle="Docker"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
-/>  <img 
-    aling="left"
-    alt="Notion"
-    tittle="Notion"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/>
-<img
-    aling="left"
-    alt="Pyhton"
-    tittle="python"
-    width="30px"
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img
-    aling="left"
-    alt="Pyhton"
-    tittle="python"
-    width="30px"
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    aling="left"
-    alt="Pyhton"
-    tittle="python"
-    width="30px"
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    aling="left"
-    alt="Pyhton"
-    tittle="python"
-    width="30px"
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-     
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"/> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isabellyvianachavier&theme=radical)](https://git.io/streak-stats)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"/> 
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=isabellyvianachavier&show_icons=true&hide_border=false&title_color=FF69B4&text_color=E6EDF3&icon_color=FF69B4&bg_color=0D1117&border_color=FF69B4&rank_icon=github" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isabellyvianachavier&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Minhas Linguagens e Tecnologias</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,aws,docker,cs,dotnet,java,py,gcp,visualstudio,vscode,notion,git,github" />
+  </a>
+</p>
 
 
 
