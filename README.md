@@ -4,20 +4,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" /> Me chamo Isabelly
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Gosto de aprender coisas novas, explorar diferentes áreas da tecnologia e colocar meus conhecimentos em prática por meio de projetos, buscando evoluir constantemente e entender como a tecnologia pode resolver problemas e gerar valor.
+### Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Gosto de aprender coisas novas, explorar diferentes áreas da tecnologia e colocar meus conhecimentos em prática por meio de projetos, buscando evoluir constantemente e entender como a tecnologia pode resolver problemas e gerar valor.
 
-Tenho buscado desenvolver conhecimentos em análise e visualização de dados, Business Intelligence, bancos de dados e engenharia de dados, utilizando ferramentas como Python, SQL, Power BI e Excel. Também exploro áreas como desenvolvimento de software, Inteligência Artificial, Cloud e Cibersegurança, ampliando minha visão sobre as possibilidades da tecnologia. O objetivo é transformar meus aprendizados em projetos práticos, desenvolver meu raciocínio analítico e construir soluções que conectem tecnologia, dados e necessidades de negócio.
+### Tenho buscado desenvolver conhecimentos em análise e visualização de dados, Business Intelligence, bancos de dados e engenharia de dados, utilizando ferramentas como Python, SQL, Power BI e Excel. Também exploro áreas como desenvolvimento de software, Inteligência Artificial, Cloud e Cibersegurança, ampliando minha visão sobre as possibilidades da tecnologia. O objetivo é transformar meus aprendizados em projetos práticos, desenvolver meu raciocínio analítico e construir soluções que conectem tecnologia, dados e necessidades de negócio.
 
 ### Interesses
-
-Backend • Dados • Cloud • Business • Inteligência Artificial • Cibersegurança
+### *Backend • Dados • Cloud • Business • Inteligência Artificial • Cibersegurança*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="130" />
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=isabellyvianachavier&theme=radical" alt="GitHub Streak" />
   </a>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="130" />
 </p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
@@ -37,3 +36,4 @@ Backend • Dados • Cloud • Business • Inteligência Artificial • Cibers
     <img src="https://skillicons.dev/icons?i=postgres,dynamodb,aws,docker,cs,dotnet,java,py,gcp,visualstudio,vscode,notion,git,github" />
   </a>
 </p>
+
