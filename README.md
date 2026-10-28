@@ -8,7 +8,7 @@
 
 ### Tenho buscado desenvolver conhecimentos em análise e visualização de dados, Business Intelligence, bancos de dados e engenharia de dados, utilizando ferramentas como Python, SQL, Power BI e Excel. Também exploro áreas como desenvolvimento de software, Inteligência Artificial, Cloud e Cibersegurança, ampliando minha visão sobre as possibilidades da tecnologia. O objetivo é transformar meus aprendizados em projetos práticos, desenvolver meu raciocínio analítico e construir soluções que conectem tecnologia, dados e necessidades de negócio.
 
-### Interesses
+### Meus Interesses
 ### *Backend • Dados • Cloud • Business • Inteligência Artificial • Cibersegurança*
 
 <p align="center">
@@ -19,21 +19,31 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="130" />
 </p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=isabellyvianachavier&show_icons=true&hide_border=false&title_color=FF69B4&text_color=E6EDF3&icon_color=FF69B4&bg_color=0D1117&border_color=FF69B4&rank_icon=github" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isabellyvianachavier&layout=compact&hide_border=false&title_color=FF69B4&text_color=E6EDF3&bg_color=0D1117&border_color=FF69B4" />
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Minhas Linguagens e Tecnologias</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,aws,docker,cs,dotnet,java,py,gcp,visualstudio,vscode,notion,git,github" />
+  <a href="https://github-stats-extended.vercel.app/api?username=isabellyvianachavier&show_icons=true&include_all_commits=true&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api?username=isabellyvianachavier&show_icons=true&include_all_commits=true&theme=radical" alt="Tecnologias" width="450"/>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=isabellyvianachavier&langs_count=4&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isabellyvianachavier&langs_count=4&theme=radical" alt="Tecnologias" width="340"  />
   </a>
 </p>
 
+<h3 align="center">Minhas Linguagens e Tecnologias</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,aws,docker,cs,dotnet,java,py,gcp,visualstudio,vscode,notion,git,github" alt="Tecnologias" />
+  </a>
+</p>
+
+<h3 align="center">Vamos Se Conectar!</h3>
+<p align="center">
+  <a href="https://www.instagram.com/isa__b3lly/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:tech.isabellyviana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/isabellyvianachavierbustamantesa">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" />
+  </a>
+</p>
