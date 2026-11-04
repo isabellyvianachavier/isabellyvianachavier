@@ -72,7 +72,7 @@
     <td valign="top" width="50%">
       <b>💻 Desenvolvimento</b><br><br>
       • Python e C#/.NET<br>
-      • SQL (PostgreSQL e SQL Server)<br>
+      • SQL (PostgreSQL e Oracle SQL)<br>
       • Versionamento com Git & GitHub<br>
       • Azure DevOps
     </td>
